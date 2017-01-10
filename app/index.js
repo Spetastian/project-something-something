@@ -1,2 +1,2 @@
-import './App'
-import './static/index.html'
+import './App';
+import './static/index.html';
